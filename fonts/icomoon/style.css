@@ -106,3 +106,15 @@
 .icon-heart:before{
   content:"\f004";
 }
+
+.icon-profile:before {
+  content: "\e923";
+}
+
+.icon-mobile:before {
+  content: "\e958";
+}
+
+.icon-stack:before {
+  content: "\e92e";
+}
