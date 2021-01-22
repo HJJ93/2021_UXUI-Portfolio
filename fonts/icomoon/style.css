@@ -27,6 +27,11 @@
 .icon-anchor:before {
   content: "\e909";
 }
+
+.icon-pencil:before {
+	content: "\e90e";
+}
+
 .icon-aperture:before {
   content: "\e90a";
 }
@@ -119,6 +124,9 @@
   content: "\e92e";
 }
 
+.icon-paperclip3:before {
+	content: "\e02d";
+}
 
 
 
